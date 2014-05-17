@@ -4,7 +4,7 @@ from dateutil import easter
 from flask import Flask, abort, render_template
 
 app = Flask(__name__)
-app.debug = True
+#app.debug = True
 
 FRIDAY = 4
 

@@ -5,6 +5,10 @@ html {
     background-size: cover;
 }
 
+body {
+    overflow: hidden;
+}
+
 div#main {
     text-align: center;
     margin: auto;
