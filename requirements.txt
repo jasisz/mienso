@@ -1,0 +1,11 @@
+Flask==0.10.1
+Jinja2==2.7.2
+MarkupSafe==0.23
+Werkzeug==0.9.4
+argparse==1.2.1
+gnureadline==6.3.3
+ipython==2.0.0
+itsdangerous==0.24
+python-dateutil==2.2
+pytz==2014.3
+six==1.6.1
